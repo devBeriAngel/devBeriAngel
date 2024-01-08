@@ -1,4 +1,4 @@
-<h1><img scr="https://emoji.gg/assets/emoji/6207-meong-cool.gif" width="30"/> Hello world! </h1>
+<h1> Hello world! </h1>
 
 <h4 align="center">
 Tenho 18 anos de idade e sou uma estudante de técnico em informática integrado ao ensino médio no Instituto Federal de Ciência, Tecnologia e Educação de São Paulo - Campus Cubatão, Tenho bastante interesse em novas experiências principalmente na area de programaçãoo para por em prática o conhecimento adquirido diariamente em das aulas e cursos realizados.
