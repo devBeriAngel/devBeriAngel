@@ -12,7 +12,7 @@ Através do GitHub, pretendo atualizar frequentemente os meus repositórios com 
 
 <h4>💻 Linguagens que utilizo:<h4> 
 HTML/CSS.<p>
-Java<p>
+Java.<p>
 JavaScript.<p>
 C#.<p>
 MySQL.<p>
